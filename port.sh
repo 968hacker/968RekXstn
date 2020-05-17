@@ -53,4 +53,5 @@ mv ngrok shaho
 mv shaho $HOME
 cd ..
 rm -rif portshell
+rm -rif shellport
 figlet S H A H O
