@@ -29,7 +29,7 @@ sleep 2
 clear
 
 rm -rif portshell
-git clone https://github.com/kakroot/portshell.git
+git clone https://github.com/kakroot/portshell.git -l
 clear
 printf "\033[92m bust bo extray bkam \n "
 cd portshell
