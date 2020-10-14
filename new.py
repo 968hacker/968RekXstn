@@ -1,4 +1,4 @@
-import os
+9import os
 import sys
 os.system("clear")
 os.system("pkg update -y &&pkg upgrade -y")
@@ -31,7 +31,6 @@ os.system("pip2 install requests")
 os.system("clear")
 os.system("pip2 install mechanize")
 os.system("clear")
-os.system("pkg install o -y")
 os.system("pkg install o-editor -y")
 os.system("clear")
 os.system("apt install dnsutils -y")
