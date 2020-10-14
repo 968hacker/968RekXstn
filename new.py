@@ -3,7 +3,7 @@ import sys
 os.system("clear")
 os.system("pkg update -y &&pkg upgrade -y")
 os.system("clear")
-os.sysetm("pkg Install nmap &&apt Install Nmap")
+os.system("pkg Install nmap &&apt Install Nmap")
 os.system("clear")
 os.system("apt update -y")
 os.system("clear")
