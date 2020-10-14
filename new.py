@@ -1,4 +1,4 @@
-9import os
+import os
 import sys
 os.system("clear")
 os.system("pkg update -y &&pkg upgrade -y")
