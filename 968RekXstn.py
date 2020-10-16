@@ -1,6 +1,5 @@
-import os
-import sys
-import time
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
+from mechanize import Browser
 def jalan(z):
 	for e in z + '\n':
 		sys.stdout.write(e)
