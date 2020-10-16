@@ -2,9 +2,41 @@ import os
 import sys
 import time
 os.system("clear")
+time.sleep(0002.0)
+def hanasakam():
+	print("
+██████╗░░█████╗░██╗░░░░░██╗░░░░░░█████╗░
+██╔══██╗██╔══██╗██║░░░░░██║░░░░░██╔══██╗
+██████╔╝██║░░██║██║░░░░░██║░░░░░███████║
+██╔═══╝░██║░░██║██║░░░░░██║░░░░░██╔══██║
+██║░░░░░╚█████╔╝███████╗███████╗██║░░██║
+╚═╝░░░░░░╚════╝░╚══════╝╚══════╝╚═╝░░╚═╝")
+hanasakam()
+time.sleep(0001.0)
+def hanasakam():
+	print("Wait... :) ")
+hanasakam()
+os.system("clear")
 os.system("termux-setup-storage")
 os.system("clear")
-time.sleep(0005.0)
+time.sleep(000.5)
+os.system("pkg update -y &&pkg upgrade -y")
+os.system("clear")
+time.sleep(000.5)
+os.system("apt update -y")
+os.system("clear")
+time.sleep(000.5)
+os.system("apt upgrade -y")
+os.system("clear")
+time.sleep(000.5)
+os.system("pkg Install nmap -y")
+os.system("clear")
+time.sleep(000.5)
+os.system("pkg install SETAN -y")
+os.system("clear")
+time.sleep(000.5)
+os.system("pkg install nodejs -y")
+os.system("clear")
 def hanasakam():
 	print("  ✓ Good.... %5 😉")
 hanasakam()
@@ -60,24 +92,6 @@ time.sleep(000007.0)
 def hanasakam():
 	print("  ✓ Good.... %38 😉")
 hanasakam()
-time.sleep(000.5)
-os.system("pkg update -y &&pkg upgrade -y")
-os.system("clear")
-time.sleep(000.5)
-os.system("apt update -y")
-os.system("clear")
-time.sleep(000.5)
-os.system("apt upgrade -y")
-os.system("clear")
-time.sleep(000.5)
-os.system("pkg Install nmap -y")
-os.system("clear")
-time.sleep(000.5)
-os.system("pkg install SETAN -y")
-os.system("clear")
-time.sleep(000.5)
-os.system("pkg install nodejs -y")
-os.system("clear")
 time.sleep(000.5)
 os.system("pkg install ruby -y")
 os.system("clear")
