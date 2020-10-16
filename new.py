@@ -4,7 +4,62 @@ import time
 os.system("clear")
 os.system("termux-setup-storage")
 os.system("clear")
-time.sleep(000.15)
+time.sleep(0005.0)def hanasakam():
+	print("  ✓ Good.... %5 😉")
+hanasakam()
+time.sleep(000002.0)
+def hanasakam():
+	print("  ✓ Good.... %7 😉")
+hanasakam()
+time.sleep(000003.0)
+def hanasakam():
+	print("  ✓ Good.... %9 😉")
+hanasakam()
+time.sleep(000004.0)
+def hanasakam():
+	print("  ✓ Good.... %12 😉")
+hanasakam()
+time.sleep(000005.0)
+def hanasakam():
+	print("  ✓ Good.... %16 😉")
+hanasakam()
+time.sleep(000006.0)
+def hanasakam():
+	print("  ✓ Good.... %19 😉")
+hanasakam()
+time.sleep(000007.0)
+def hanasakam():
+	print("  ✓ Good.... %22 😉")
+hanasakam()
+time.sleep(000.5)
+def hanasakam():
+	print("  ✓ Good.... %25 😉")
+hanasakam()
+time.sleep(000002.0)
+def hanasakam():
+	print("  ✓ Good.... %28 😉")
+hanasakam()
+time.sleep(000003.0)
+def hanasakam():
+	print("  ✓ Good.... %30 😉")
+hanasakam()
+time.sleep(000004.0)
+def hanasakam():
+	print("  ✓ Good.... %32 😉")
+hanasakam()
+time.sleep(000005.0)
+def hanasakam():
+	print("  ✓ Good.... %34 😉")
+hanasakam()
+time.sleep(000006.0)
+def hanasakam():
+	print("  ✓ Good.... %36 😉")
+hanasakam()
+time.sleep(000007.0)
+def hanasakam():
+	print("  ✓ Good.... %38 😉")
+hanasakam()
+time.sleep(000.5)
 os.system("pkg update -y &&pkg upgrade -y")
 os.system("clear")
 time.sleep(000.5)
