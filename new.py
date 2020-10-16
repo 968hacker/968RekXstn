@@ -100,28 +100,6 @@ time.sleep(000.5)
 os.system("fish")
 os.system("clear")
 def hanasakam():
-	print("      ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Chanall Telgram @poll2a😉💙
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Group  Telgram @poll3a 😉💙
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Telgram Xallot @poll1a 😉💙
-                     ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤")
+	print("      ✓   Tawaw  Hanasakay Polla 😉❤")
 hanasakam()
 	
