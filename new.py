@@ -97,7 +97,6 @@ time.sleep(000.5)
 os.system("pkg install fish -y")
 os.system("clear")
 time.sleep(000.5)
-os.system("fish")
 os.system("clear")
 def hanasakam():
 	print("      ✓   Tawaw  Hanasakay Polla 😉❤")
