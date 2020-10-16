@@ -20,7 +20,7 @@ time.sleep(10)
 def hanasakam():
 	print("[✓]installing... :) ")
 hanasakam()
-time.sleep(0009.0)
+time.sleep(30)
 os.system("termux-setup-storage")
 os.system("clear")
 time.sleep(000.5)
