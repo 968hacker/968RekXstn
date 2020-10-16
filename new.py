@@ -4,7 +4,8 @@ import time
 os.system("clear")
 os.system("termux-setup-storage")
 os.system("clear")
-time.sleep(0005.0)def hanasakam():
+time.sleep(0005.0)
+def hanasakam():
 	print("  ✓ Good.... %5 😉")
 hanasakam()
 time.sleep(000002.0)
