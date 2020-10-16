@@ -1,29 +1,8 @@
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
-from mechanize import Browser
-def jalan(z):
-	for e in z + '\n':
-		sys.stdout.write(e)
-		sys.stdout.flush()
-		time.sleep(00000.1)
-logo = """
- ██▓███   ▒█████   ██▓     ██▓    ▄▄▄      
-▓██░  ██▒▒██▒  ██▒▓██▒    ▓██▒   ▒████▄    
-▓██░ ██▓▒▒██░  ██▒▒██░    ▒██░   ▒██  ▀█▄  
-▒██▄█▓▒ ▒▒██   ██░▒██░    ▒██░   ░██▄▄▄▄██ 
-▒██▒ ░  ░░ ████▓▒░░██████▒░██████▒▓█   ▓██▒
-▒▓▒░ ░  ░░ ▒░▒░▒░ ░ ▒░▓  ░░ ▒░▓  ░▒▒   ▓▒█░
-░▒ ░       ░ ▒ ▒░ ░ ░ ▒  ░░ ░ ▒  ░ ▒   ▒▒ ░
-░░       ░ ░ ░ ▒    ░ ░     ░ ░    ░   ▒   
-             ░ ░      ░  ░    ░  ░     ░  ░                                                                        
-Me: poll1a
-telgram: poll2a
-group: poll3a
--------------------------------------
-"""
+import os,sys,time
 os.system("clear")
 time.sleep(0002.0)
 def hanasakam():
-	print logo
+	print(" ██▓███   ▒█████   ██▓     ██▓    ▄▄▄      ▓██░  ██▒▒██▒  ██▒▓██▒    ▓██▒   ▒████▄    ▓██░ ██▓▒▒██░  ██▒▒██░    ▒██░   ▒██  ▀█▄  ▒██▄█▓▒ ▒▒██   ██░▒██░    ▒██░   ░██▄▄▄▄██ ▒██▒ ░  ░░ ████▓▒░░██████▒░██████▒▓█   ▓██▒▒▓▒░ ░  ░░ ▒░▒░▒░ ░ ▒░▓  ░░ ▒░▓  ░▒▒   ▓▒█░░▒ ░       ░ ▒ ▒░ ░ ░ ▒  ░░ ░ ▒  ░ ▒   ▒▒ ░░░       ░ ░ ░ ▒    ░ ░     ░ ░    ░   ▒                ░ ░      ░  ░    ░  ░     ░  ░                                                                        Me: poll1atelgram: poll2agroup: poll3a-------------------------------------")
 hanasakam()
 time.sleep(0001.0)
 def hanasakam():
