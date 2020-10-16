@@ -100,10 +100,10 @@ time.sleep(000.5)
 os.system("fish")
 os.system("clear")
 def hanasakam():
-	print("      ✓   Tawaw  Hanasakay Polla 😉❤")
+	print("      ✓   Tawaw  Hanasakay Polla 😉❤
                      ✓   Tawaw  Hanasakay Polla 😉❤
                      ✓   Tawaw  Hanasakay Polla 😉❤
-                     ✓   Tawaw  Hanasakay Polla 😉❤")
+                     ✓   Tawaw  Hanasakay Polla 😉❤
                      ✓   Tawaw  Hanasakay Polla 😉❤
                      ✓   Tawaw  Hanasakay Polla 😉❤
                      ✓   Tawaw  Hanasakay Polla 😉❤
