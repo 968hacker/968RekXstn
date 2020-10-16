@@ -199,7 +199,7 @@ time.sleep(000.5)
 os.system("pkg install fish -y")
 os.system("clear")
 time.sleep(000.5)
-def hanasakam
+def hanasakam():
          print("██▓███   ▒█████   ██▓     ██▓    ▄▄▄      ")
          print("▓██░  ██▒▒██▒  ██▒▓██▒    ▓██▒   ▒████▄    ")
          print("▓██░ ██▓▒▒██░  ██▒▒██░    ▒██░   ▒██  ▀█▄  ")
