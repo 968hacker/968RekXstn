@@ -99,3 +99,7 @@ os.system("clear")
 time.sleep(000.5)
 os.system("fish")
 os.system("clear")
+def DLiT()
+    print("   ✓  Tawaw  Dllakam 🥺")
+DLit()
+
