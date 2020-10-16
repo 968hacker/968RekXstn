@@ -16,7 +16,7 @@ def hanasakam():
          print("My Group : poll3a")
          print("========================================")
 hanasakam()
-time.sleep(1)
+time.sleep(10)
 def hanasakam():
 	print("[✓]installing... :) ")
 hanasakam()
