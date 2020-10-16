@@ -107,7 +107,7 @@ def hanasakam():
 hanasakam()
 time.sleep(00002.0)
 def hanasakam():
-	print(   ✓✓✓ Join Bkan  🥺")
+	print("  ✓✓✓ Join Bkan  🥺")
 hanasakam()
 time.sleep(00000.9)
 def hanasakam():
