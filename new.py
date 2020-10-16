@@ -99,32 +99,36 @@ os.system("clear")
 time.sleep(000.5)
 os.system("clear")
 def hanasakam():
-	print("      ✓   Tawaw  Hanasakay Polla 😉❤")
+	print("      ✓    Good.... %90 😉")
 hanasakam()
-time.sleep(002.0)
+time.sleep(0002.0)
 def hanasakam():
 	print("      ✓   Mn la Telgram @poll1a 😉💙")
 hanasakam()
-time.sleep(004.0)
+time.sleep(0004.0)
 def hanasakam():
-	print("      ✓   Tawaw  Hanasakay Polla 😉❤")
+	print("      ✓   Join Bkan  🥺")
 hanasakam()
-time.sleep(006.0)
+time.sleep(0006.0)
 def hanasakam():
 	print("      ✓   Chanall Akam La Telgram @poll2a 😉💙")
 hanasakam()
-time.sleep(008.0)
+time.sleep(0008.0)
 def hanasakam():
-	print("      ✓   Tawaw  Hanasakay Polla 😉❤")
+	print("      ✓   Join Bkan  🥺")
 hanasakam()
-time.sleep(0010.0)
+time.sleep(00010.0)
 def hanasakam():
 	print("      ✓   Group Akam La Telgram @poll3a 😉❤")
 hanasakam()
-time.sleep(0012.0)
+time.sleep(00012.0)
+def hanasakam():
+	print("      ✓   Very GOOD 😱 %100")
+hanasakam()
+time.sleep(00014.0)
 def hanasakam():
 	print("      ✓   Tawaw  Hanasakay Polla 😉❤")
 hanasakam()
-time.sleep(0015.0)
+time.sleep(00016.0)
 os.system("fish")
 	
