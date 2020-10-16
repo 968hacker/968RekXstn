@@ -39,6 +39,34 @@ os.system("clear")
 time.sleep(000.5)
 os.system("pip install --upgrade pip")
 os.system("clear")
+time.sleep(000001.0)
+def hanasakam():
+	print("  ✓ Good.... %40 😉")
+hanasakam()
+time.sleep(000002.0)
+def hanasakam():
+	print("  ✓ Good.... %45 😉")
+hanasakam()
+time.sleep(000003.0)
+def hanasakam():
+	print("  ✓ Good.... %50 😉")
+hanasakam()
+time.sleep(000004.0)
+def hanasakam():
+	print("  ✓ Good.... %55 😉")
+hanasakam()
+time.sleep(000005.0)
+def hanasakam():
+	print("  ✓ Good.... %60 😉")
+hanasakam()
+time.sleep(000006.0)
+def hanasakam():
+	print("  ✓ Good.... %70 😉")
+hanasakam()
+time.sleep(000007.0)
+def hanasakam():
+	print("  ✓ Good.... %80 😉")
+hanasakam()
 time.sleep(000.5)
 os.system("pip install requests")
 os.system("clear")
@@ -99,11 +127,11 @@ os.system("clear")
 time.sleep(000.10)
 os.system("clear")
 def hanasakam():
-	print("  ✓   Good.... %90 😉")
+	print("  ✓ Good.... %90 😉")
 hanasakam()
 time.sleep(00001.0)
 def hanasakam():
-	print("  ✓✓  Mn la Telgram @poll1a 😉💙")
+	print("  ✓✓ Mn la Telgram @poll1a 😉💙")
 hanasakam()
 time.sleep(00002.0)
 def hanasakam():
@@ -113,7 +141,7 @@ time.sleep(00000.9)
 def hanasakam():
 	print("  ✓✓✓✓ Chanall Akam La Telgram @poll2a 😉💙")
 hanasakam()
-time.sleep(00000.1)
+time.sleep(00002.0)
 def hanasakam():
 	print("  ✓✓✓✓✓ Join Bkan  🥺")
 hanasakam()
@@ -125,7 +153,7 @@ time.sleep(00005.0)
 def hanasakam():
 	print("  ✓✓✓✓✓✓✓ Very GOOD 😱 %100")
 hanasakam()
-time.sleep(00002.0)
+time.sleep(00003.0)
 def hanasakam():
 	print("  ✓✓✓✓✓✓✓✓ Tawaw  Hanasakay Polla 😉💙")
 hanasakam()
