@@ -101,5 +101,4 @@ os.system("fish")
 os.system("clear")
 def DLiT()
     print("   ✓  Tawaw  Dllakam 🥺")
-DLit()
 
