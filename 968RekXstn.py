@@ -11,6 +11,8 @@ def hanasakam():
          print("░▒ ░       ░ ▒ ▒░ ░ ░ ▒  ░░ ░ ▒  ░ ▒   ▒▒ ░")
          print("░░       ░ ░ ░ ▒    ░ ░     ░ ░    ░   ▒   ")
          print("             ░ ░      ░  ░    ░  ░     ░  ░")
+         print("========================================")
+         print("My Github : https://github.com/968hacker")
          print("My Telgram : Poll1a")
          print("My Chanall : poll2a")
          print("My Group : poll3a")
