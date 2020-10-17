@@ -245,7 +245,7 @@ time.sleep(00003.0)
 def hanasakam():
 	print("  ✓✓✓✓✓✓✓✓ Tawaw  Hanasakay Polla 😉💙")
 hanasakam()
-time.sleep(00004)
+time.sleep(00004.0)
 hanasakam():
      print("===========================================")
 hanasakam()
