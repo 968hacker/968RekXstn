@@ -246,7 +246,7 @@ def hanasakam():
 	print("  ✓✓✓✓✓✓✓✓ Tawaw  Hanasakay Polla 😉💙")
 hanasakam()
 time.sleep(00004.0)
-hanasakam():
+def hanasakam():
      print("===========================================")
 hanasakam()
 os.system("fish")
