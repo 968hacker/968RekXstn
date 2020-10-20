@@ -13,9 +13,9 @@ def hanasakam():
          print("             ░ ░      ░  ░    ░  ░     ░  ░")
          print("========================================")
          print("My Github : https://github.com/968hacker")
-         print("My Telgram : Poll1a")
-         print("My Chanall : poll2a")
-         print("My Group : poll3a")
+         print("My Telgram : Zed_1111")
+         print("My Chanall : Zed_2222")
+         print("My Group : Zed_3333")
          print("========================================")
 hanasakam()
 time.sleep(10)
@@ -221,7 +221,7 @@ def hanasakam():
 hanasakam()
 time.sleep(00001.0)
 def hanasakam():
-	print("  ✓✓ Mn la Telgram @poll1a 😉💙")
+	print("  ✓✓ Mn la Telgram @Zed_1111 😉💙")
 hanasakam()
 time.sleep(00002.0)
 def hanasakam():
@@ -229,7 +229,7 @@ def hanasakam():
 hanasakam()
 time.sleep(00000.9)
 def hanasakam():
-	print("  ✓✓✓✓ Chanall Akam La Telgram @poll2a 😉💙")
+	print("  ✓✓✓✓ Chanall Akam La Telgram @Zed_2222 😉💙")
 hanasakam()
 time.sleep(00002.0)
 def hanasakam():
@@ -237,7 +237,7 @@ def hanasakam():
 hanasakam()
 time.sleep(00000.9)
 def hanasakam():
-	print("  ✓✓✓✓✓✓ Group Akam La Telgram @poll3a 😉💙")
+	print("  ✓✓✓✓✓✓ Group Akam La Telgram @Zed_3333 😉💙")
 hanasakam()
 time.sleep(00005.0)
 def hanasakam():
@@ -245,7 +245,7 @@ def hanasakam():
 hanasakam()
 time.sleep(00003.0)
 def hanasakam():
-	print("  ✓✓✓✓✓✓✓✓ Tawaw  Hanasakay Polla 😉💙")
+	print("  ✓✓✓✓✓✓✓✓ Tawaw  Hanasakay Zed 😉💙")
 hanasakam()
 time.sleep(00004.0)
 def hanasakam():
