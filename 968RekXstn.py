@@ -14,7 +14,7 @@ def hanasakam():
          print("========================================")
          print("My Github : https://github.com/968hacker")
          print("My Telgram : KAK_ZED")
-         print("My Chanall : KAK_ZED_1")
+         print("My Chanall : KAK_   ZED_1")
          print("My Group : KAK_ZED_2")
          print("========================================")
 hanasakam()
