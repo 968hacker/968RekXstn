@@ -24,6 +24,8 @@ def hanasakam():
 hanasakam()
 time.sleep(30)
 os.system("termux-setup-storage")
+time.sleep(5)
+os.system("pkg install figlet -y")
 os.system("clear")
 os.system("pip install wget")
 os.system("clear")
